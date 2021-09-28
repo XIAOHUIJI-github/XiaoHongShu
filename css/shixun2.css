@@ -1,0 +1,186 @@
+#top-nav{
+    width: 100%;
+    overflow: hidden;
+    
+}
+#xiaohaoshu{
+    float: left;
+}
+#chuangyifu{
+    width: 300px;
+    float: left;
+    height: 56px;
+    line-height: 56px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+#chuangzuobaike{
+    width: 100px;
+    float: right;
+    height: 56px;
+    line-height: 56px;
+    font-size: 20px;
+    color: gray;   
+}
+.dabankuai{
+    width: 100%;
+    overflow: hidden;
+    background-color: #f8f8f8;
+}
+.dabankuai .left-nav{
+    width: 10%;
+    float: left;
+    height: 665px;
+    background-color: white;
+    margin-top: 20px;
+}
+#fabushiping{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 130px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 20px;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.dabankuai .left-nav .zuobian-nav .dianjibianse{
+    list-style: none;
+    margin-top: 40px;
+}
+.dabankuai .left-nav .zuobian-nav .dianjibianse:hover{
+    color: blue;
+}
+.dabankuai .right-bankuai{
+    width: 89%;
+    float: right;
+    height: 665px;
+    overflow-y: hidden;
+    overflow: auto;
+}
+.dabankuai .right-bankuai .youshang{
+    width: 75%;
+    overflow: hidden;
+    background-color: white;
+    margin-top: 20px;
+}
+#touxiang{
+    float: left;
+}
+#idhao{
+    float: left;
+    height: 80px;
+    line-height: 80px;
+    margin-left: 25px;
+}
+#cacva{
+height: 20px;
+line-height: 20px;
+position: relative;
+top: 65px;
+left: -128px;
+}
+.dabankuai .right-bankuai .youzhong{
+    width: 75%;
+    background-color: white;
+}
+.dabankuai .right-bankuai .youzhong .youzhong-shang{
+    width: 120px;
+    border-left: 3px solid blue;
+    margin-left: 50px;
+    font-size: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+    position: relative;
+    top: 15px;
+}
+.dabankuai .right-bankuai .youzhong .youzhong-xia{
+    width: 200px;
+    border-left: 3px solid blue;
+    margin-left: 50px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.dabankuai .right-bankuai .youzhong .youzhong-zhong{
+    width: 75%;
+    height: 150px;
+    font-size: 20px;
+}
+.dabankuai .right-bankuai .youzhong .youzhong-zhong .youzhong-zhong-zi{
+    height: 78px;
+    float: left;
+    width: 100px;
+    margin-bottom: 30px;
+    line-height: 78px;
+    margin-left: 50px;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+.dabankuai .right-bankuai .youzhong .youzhong-xia-kongbai{
+    width: 100%;
+    height: 500px;
+    margin-left: -100px;
+    background-color: white;
+}
+.dabankuai .right-bankuai .youxia{
+    width: 75%;
+    background-color: white;
+}
+.dabankuai .right-bankuai .youxia .sigetupian{
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.dabankuai .right-bankuai .youxia .youxia-shang{
+    width: 200px;
+    border-left: 3px solid blue;
+    margin-left: 50px;
+    font-size: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
+.dabankuai .right-bankuai .you{
+    width: 24%;
+    float: right;
+    height: 1290px;
+    background-color: white;
+    margin-top: 20px;
+
+}
+.dabankuai .right-bankuai .you .you-top{
+    width: 120px;
+    border-left: 3px solid blue;
+    margin-left: 50px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.dabankuai .right-bankuai .you .youbianbiaoqian .vnjbvu{
+    list-style: none;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.dabankuai .right-bankuai .you .youbianbiaoqian .gengduo{
+    list-style: none;
+    margin-top: 20px;
+    color: gray;
+}
+.dabankuai .right-bankuai .you .youbianbiaoqian .vnjbvu:hover{
+    color: blue;
+}
+.dabankuai .right-bankuai .you .youbianbiaoqian .gengduo:hover{
+    color: blue;
+}
+#datulide{
+    position: relative;
+    left: 570px;
+    top: 180px;
+}

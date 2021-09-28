@@ -1,0 +1,829 @@
+.header{
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+   }
+   #logo{
+       width: 100%;
+       height: 592px;    
+   }
+   .article{
+       height: 300px;
+       width: 800px;
+       margin: 0 auto;
+       margin-top: 120px;
+       overflow: hidden;
+   }
+   .article .article1{
+       width: 160px;
+       height: 80px;
+       margin: 0 auto;
+   }
+   .article .article1 .article11{
+       list-style: none;
+       font-size: 40px;
+       line-height: 56px;
+       margin-top: 0;
+       margin-bottom: 0;
+       font-weight: 500;
+   }
+   .article2{
+       height: 142px;
+       width: 800px; 
+       margin-top: 60px;
+   }
+   .article2 .article21{
+       font-size: 48px;
+       font-family: PingFangSC-Semibold;
+       font-weight: 600;
+       margin-bottom: 24px;
+       color: #293134;
+       line-height: 56px;
+       text-align: center;
+       list-style: none;
+   }
+   .article2 .article22{
+       text-align: center;
+       font-size: 24px;
+       font-family: PingFangSC-Regular;
+       font-weight: 400;
+       color: #747474;
+       line-height: 32px;
+       list-style: none;
+   }
+   .article3{
+       height: 426px;
+       width: 990px;
+       margin: 0 auto;
+       overflow: hidden;
+   }
+   .article3 .tabe{
+       height: 426px;
+       width: 574px;
+       float: left;
+   }
+   .article3 .tabe .tabe1{
+       height: 141px;
+       width: 268px;
+       float: left;
+   }
+   .article3 .tabe .tabe2{
+       height: 141px;
+       width: 268px;
+       float: left;
+   }
+   .article3 .tabe .tabe3{
+       height: 141px;
+       width: 268px;
+       float: left;
+   }
+   .article3 .tabe .tabe4{
+       height: 141px;
+       width: 268px;
+       float: left;
+   }
+   .article3 .tabe .tabe11{
+       font-size: 32px;
+       font-family: PingFangSC-Semibold;
+       font-weight: 600;
+       color: #293134;
+       line-height: 40px;
+       margin-bottom: 24px;
+       list-style: none;
+   }
+   .article3 .tabe .tabe12{
+       font-size: 18px;
+       font-family: PingFangSC-Regular;
+       font-weight: 400;
+       color: #747474;
+       line-height: 26px;
+       list-style: none;    
+   }
+   .article3 .divimg{
+       width:380px;
+       height: 181px;
+       float: left;
+       margin-top: 70px;
+       overflow: hidden;
+   }
+   .area{
+       height: 750px;
+       width: 960px;
+       margin: 0 auto;
+   }
+   .area .areaf{
+       height: 76px;
+       width: 160px;
+       margin: 0 auto;
+   }
+   .area .areaf .font{
+       list-style: none;
+       font-size: 40px;
+       line-height: 56px;
+       margin-top: 0;
+       margin-bottom: 0;
+       font-weight: 500
+   }
+   .area .area1{
+       width: 304px; 
+       height:328px ;
+       float: left;
+   }
+   .area .area1 .area11{
+       width: 120px;
+       height:120px ;
+       margin: 0 auto;
+   }
+   .area .area2{
+       width: 304px; 
+       height:328px ;
+       float: left;
+   }
+   .area .area2 .area21{
+       width: 120px;
+       height:120px ;
+       margin: 0 auto;
+   }
+   .area .area3{
+       width: 304px; 
+       height:328px ;
+       float: left;
+   }
+   .area .area3 .area31{
+       width: 120px;
+       height:120px ;
+       margin: 0 auto;
+   }
+   .area .area4{
+       width: 304px; 
+       height:328px ;
+       float: left;
+   }
+   .area .area4 .area41{
+       width: 120px;
+       height:120px ;
+       margin: 0 auto;
+   }
+   .area .area5{
+       width: 304px; 
+       height:328px ;
+       float: left;
+   }
+   .area .area5 .area51{
+       width: 120px;
+       height:120px ;
+       margin: 0 auto;
+   }
+   .area .area1 .area111{
+       width: 96px;
+       height: 92px;
+       overflow: hidden;
+       margin: 0 auto;
+   }
+   .area .area1 .area111 .area1111{
+       margin: 40px 0 8px;
+       font-size: 24px;
+       font-family: PingFangSC-Medium;
+       font-weight: 500;
+       color: #000;
+       line-height: 32px;
+       list-style: none;
+   }
+   .area .areal{
+       width: 150px;
+       height: 48px;
+       margin: 0 auto;
+   }
+   .area .areal .areal1{
+       list-style: none;
+       font-size: 14px;
+       font-family: PingFangSC-Regular;
+       font-weight: 400;
+       color: #747474;
+       line-height: 24px;
+       white-space: pre-wrap;
+       text-align: center;
+   }
+   .area .area2 .area22{
+       width: 120px;
+       height: 92px;
+       margin: 0 auto;
+   }
+   .area .area2 .area222 {
+       margin: 40px 0 8px;
+       font-size: 24px;
+       font-family: PingFangSC-Medium;
+       font-weight: 500;
+       color: #000;
+       line-height: 32px;
+       list-style: none;
+       
+   }
+   .area .area23{
+       width: 150px;
+       height: 48px;
+       margin: 0 auto;
+   }
+   .area .area23 .area231{
+       list-style: none;
+       font-size: 14px;
+       font-family: PingFangSC-Regular;
+       font-weight: 400;
+       color: #747474;
+       line-height: 24px;
+       white-space: pre-wrap;
+       text-align: center;
+   }
+   .area .area3 .area32{
+       width: 110px;
+       height: 92px;
+       margin: 0 auto;
+   }
+   .area .area3 .area32 .area321 {
+       margin: 40px 0 8px;
+       font-size: 24px;
+       font-family: PingFangSC-Medium;
+       font-weight: 500;
+       color: #000;
+       line-height: 32px;
+       list-style: none;
+       
+   }
+   .area .area33{
+       width: 150px;
+       height: 48px;
+       margin: 0 auto;
+   }
+   .area .area33 .area333 {
+       list-style: none;
+       font-size: 14px;
+       font-family: PingFangSC-Regular;
+       font-weight: 400;
+       color: #747474;
+       line-height: 24px;
+       white-space: pre-wrap;
+       text-align: center;
+   }
+   .area .area4 .area44{
+       width: 110px;
+       height: 92px;
+       margin: 0 auto;
+   }
+   .area .area4 .area44 .area444 {
+       margin: 40px 0 8px;
+       font-size: 24px;
+       font-family: PingFangSC-Medium;
+       font-weight: 500;
+       color: #000;
+       line-height: 32px;
+       list-style: none; 
+   }
+   .area .area45{
+       width: 150px;
+       height: 48px;
+       margin: 0 auto;
+   }
+   .area .area45 .area455 {
+       list-style: none;
+       font-size: 14px;
+       font-family: PingFangSC-Regular;
+       font-weight: 400;
+       color: #747474;
+       line-height: 24px;
+       white-space: pre-wrap;
+       text-align: center;
+   }
+   .area .area5 .area52{
+       width: 110px;
+       height: 92px;
+       margin: 0 auto;
+   }
+   .area .area5 .area52 .area522{
+       margin: 40px 0 8px;
+       font-size: 24px;
+       font-family: PingFangSC-Medium;
+       font-weight: 500;
+       color: #000;
+       line-height: 32px;
+       list-style: none; 
+   }
+   .area .area53{
+       width: 150px;
+       height: 48px;
+       margin: 0 auto;
+   }
+   .area .area53 .area533 {
+       list-style: none;
+       font-size: 14px;
+       font-family: PingFangSC-Regular;
+       font-weight: 400;
+       color: #747474;
+       line-height: 24px;
+       white-space: pre-wrap;
+       text-align: center;
+   }
+   .thrid{
+       width: 960px;
+       height:488px ;
+       margin: 0 auto;
+   }
+   .thrid .thrid1{
+       width: 160px;
+       height:80px ;
+       margin: 0 auto;
+   }
+   .thrid .thrid1 .thrid11{
+       list-style: none;
+       font-size: 40px;
+       line-height: 56px;
+       margin-top: 0;
+       margin-bottom: 0;
+       font-weight: 500;
+   }
+   .thrid .step{
+       width:304px ;
+       height: 260px;
+       float: left;
+   }
+   .thrid .step .step2{
+       width:238px ;
+       height:33px ;
+       margin: 0 auto;
+       margin-top: 40px;
+   }
+   #p{
+       margin-top: 5px;
+       margin-left: 15px;
+   }
+   .thrid .step .step2 .step3{
+       margin-left: 8px;
+       font-size: 24px;
+       font-family: PingFangSC-Medium;
+       font-weight: 500;
+       color: #000;
+       line-height: 33px;
+       list-style: none;
+       float: right;
+   }
+   .thrid .step4{
+       width:162px ;
+       height: 48px;
+       margin: 0 auto;
+   }
+   .thrid .step4 .step5{
+       list-style: none;
+       font-size: 14px;
+       font-family: PingFangSC-Regular;
+       font-weight: 400;
+       color: #747474;
+       line-height: 24px;
+       text-align: justify;
+   }
+   .thrid .step6{
+       width:304px ;
+       height: 260px;
+       overflow: hidden;
+       float: left;
+   }
+   .thrid .step6 .step61{
+       width:258px ;
+       height:33px ;
+       margin: 0 auto;
+       margin-top: 40px;
+   }
+   #q{
+       margin-top: 5px;
+       margin-left: 15px;
+   }
+   .thrid .step6 .step61 .step62{
+       font-size: 24px;
+       font-family: PingFangSC-Medium;
+       font-weight: 500;
+       color: #000;
+       line-height: 33px;
+       list-style: none;
+       float: right;
+   }
+   .step6 .step63{
+       width:162px ;
+       height: 98px;
+       margin: 0 auto;
+   }
+   .step6 .step63 .step64{
+       list-style: none;
+       font-size: 14px;
+       font-family: PingFangSC-Regular;
+       font-weight: 400;
+       color: #747474;
+       line-height: 24px;
+       text-align: justify;  
+   }
+   .step6 .step7{
+       width:238px ;
+       height: 40px;
+       margin: 0 auto;
+   }
+   .step6 .step7 .step71{
+       text-align: center;
+       display: block;
+       margin-top: 12px;
+       list-style: none;
+       color: royalblue;
+   }
+   .thrid .step8{
+       width:304px ;
+       height: 260px;
+       overflow: hidden;
+       float: left;
+   }
+   .thrid .step8 .step81{
+       width:258px ;
+       height:33px ;
+       margin: 0 auto;
+       margin-top: 40px;
+   }
+   #h{
+       margin-top: 5px;
+       margin-left: 15px;
+   }
+   .thrid .step8 .step81 .step82{
+       font-size: 24px;
+       font-family: PingFangSC-Medium;
+       font-weight: 500;
+       color: #000;
+       line-height: 33px;
+       list-style: none;
+       float: right;
+   }
+   .step8 .step9{
+       width:162px ;
+       height: 98px;
+       margin: 0 auto;
+   }
+   .step8 .step9 .step91{
+       list-style: none;
+       font-size: 14px;
+       font-family: PingFangSC-Regular;
+       font-weight: 400;
+       color: #747474;
+       line-height: 24px;
+       text-align: justify;  
+   }
+   .title{
+       width:464px ;
+       height: 56px;
+       margin: 0 auto;
+   }
+   .title .title1{
+       list-style: none;
+       color: #333;
+       font-size: 20px;
+       line-height: 24px;
+       padding: 16px 0;
+   }
+   .title2{
+       width:464px ;
+       height: 42px;
+       margin: 0 auto;
+   }
+   .title2 .title21{
+       list-style: none;
+       padding: 8px;
+       line-height: 26px;
+       font-size: 16px;
+       color: #999;
+   }
+   .footer{
+       width: 1200px;
+       height: 88px;
+       margin: 0 auto;
+       margin-top: 200px;
+   }
+   .footer .footer1{
+       width: 600px;
+       height:18px ;
+       margin: 0 auto;
+       margin-top: 15px;
+   }
+   .footer .footer1 .footer2{
+       color: #999;
+       list-style: none;
+       float: left;
+       padding-left: 50px;
+   }
+   .footer .footer1 .footer2 .separate-h{
+       display: inline-block;
+       width: 1px;
+       height: 16px;
+       margin: 0 16px;
+       background: #ccc;
+       line-height: 0;
+       vertical-align: text-bottom;
+   }
+   .footer .footer3{
+       width:700px ;
+       height: 17px;
+       margin: 0 auto;
+     margin-top: 20px;
+   }
+   .footer .footer3 .footer31{
+       color: #999;
+       list-style: none;
+       float: left;
+       padding-left: 50px;
+   }
+   .header .logo2{
+       height:54.53px ;
+       width: 434px;
+       position: absolute;
+       left: 150px;
+       top: 300px;
+   }
+   .header .header1{
+       width:320px ;
+       height:363px ;
+       position: absolute;
+       right: 150px;
+       top: 150px;
+       border-radius: 16px;
+       background-color: white;
+   }
+   .header .header1 .logo3{
+       width: 64px;
+       height:64px ;
+       float: right;
+       margin-right: 5px;
+       margin-top: 3px;
+   }
+   .header .header1 .text{
+       width:84px ;
+       height: 30px;
+       margin-left: 60px;
+       margin-top: 40px;
+       float: left;
+
+   }
+   .header .header1 .text1{
+       cursor: pointer;
+       font-size: 16px;
+       line-height: 16px;
+       color: rgb(45, 45, 45);
+       font-weight: 700;
+       list-style: none;
+   }
+   .header .header1 .text2{
+       width:84px ;
+       height: 30px;
+       margin-top: 40px;
+       float: left;
+   }
+       .header .header1 .text3{
+       cursor: pointer;
+       font-size: 16px;
+       line-height: 16px;
+       color: rgb(45, 45, 45);
+       font-weight: 700;
+       list-style: none;
+   }
+   .header .texta{
+       width:270px ;
+       height:117px ;
+       float: left;
+       margin-left: 30px;
+       overflow: hidden;
+       
+   }
+   .header .texta .texta1{
+      border-image: initial;
+      border-radius: 8px;
+      width:256px ;
+      height:48px ;
+      border: 1px solid rgb(217, 217, 217);
+      overflow: hidden;
+     
+   }
+   .header .texta .texta1 .texta2{
+       border: 1px solid rgb(217, 217, 217);
+       height: 48px;
+       width: 81px;
+       float: left;
+       
+   }
+   .header .texta .texta1 .texta2 .texta21{
+       width: 36px;
+       height: 16px;
+       margin-left: 10px;
+       margin-top: 10px;
+       float: left;
+      
+   }
+   .header .texta .texta1 .texta2 .text22{
+       width:22px ;
+       height: 22px;
+       float: left;
+       margin-top: 10px;
+   }
+   .header .texta  .texta1 .texta3{
+       width: 156px;
+       height: 18px;
+       margin-top: 10px;
+       float: left;
+       color: rgb(217, 217, 217);
+   }
+   .header .texta .textb{
+      border-image: initial;
+      border-radius: 8px;
+      width:256px ;
+      height:48px ;
+      border: 1px solid rgb(217, 217, 217);
+      overflow: hidden;
+   }
+   .header .texta  .textb .textb1{
+       width: 140px;
+       height: 18px;
+       margin-top: 15px;
+       float: left;
+       color: rgb(217, 217, 217);
+   }
+   .header .texta  .textb .textb2{
+       height: 16px;
+       width: 1px;
+      background-color:  rgb(217, 217, 217);
+       float: left;
+       margin-top: 15px;
+       margin-left: 20px;
+   }
+   .header .texta  .textb .textb3{
+       width: 70px;
+       height: 16px;
+       float: left;
+       margin-left: 15px;
+       margin-top: 15px;
+   }
+   .header .texta  .textb .textb3 .textb31{
+       color: rgb(136, 136, 136);
+       cursor: not-allowed;
+        font-size: 14px;
+       width: 70px;
+       text-align: center;
+       list-style: none;
+   }
+   .header .textc{
+       width:270px ;
+       height:117px ;
+       float: left;
+       margin-left: 30px;
+       overflow: hidden;
+       display: none;
+     
+   }
+   .header .textc .textc1{
+      border-image: initial;
+      border-radius: 8px;
+      width:256px ;
+      height:48px ;
+      border: 1px solid rgb(217, 217, 217);
+      overflow: hidden;
+   }
+   .header .textc .textc1 .textc2 {
+       width: 36px;
+       height: 16px;
+       margin-left: 10px;
+       margin-top: 10px;
+       float: left;
+      
+   }
+   .header .textd{
+      border-image: initial;
+      border-radius: 8px;
+      width:256px ;
+      height:48px ;
+      border: 1px solid rgb(217, 217, 217);
+      overflow: hidden;
+   }
+   .header .textd  .textd1{
+       width: 140px;
+       height: 18px;
+       margin-top: 15px;
+       float: left;
+       color: rgb(217, 217, 217);
+   }
+   .header .textd   .textd2{
+       height: 16px;
+       width: 1px;
+      background-color:  rgb(217, 217, 217);
+       float: left;
+       margin-top: 15px;
+       margin-left: 20px;
+   }
+   .header  .textd .textd3{
+       width: 70px;
+       height: 26px;
+       float: left;
+       margin-left: 15px;
+       margin-top: 15px;
+   }
+   .header   .textd .textd3 .textd31{
+       color: rgb(136, 136, 136);
+       cursor: not-allowed;
+        font-size: 14px;
+       width: 70px;
+       text-align: center;
+       list-style: none;
+   }
+   .header1  .btn{
+       width: 256px;
+       height: 48px;
+       margin-top: 50px;
+       margin-left: 30px;
+       background-color: rgb(91, 146, 225);
+   }
+   .header1 .btn .btn1{
+       width:37px ;
+       height:32px ;
+       margin: 0 auto;
+       background-color: rgb(91, 146, 225);
+   }
+   .header1 .btn .btn1 .btn2{
+       list-style: none;
+       font-size: 16px;
+      font-weight: 500;
+      color: white
+   }
+  .header1 .foot{
+      width: 256px;
+      height: 19;
+      margin-top: 10px;
+      margin-left: 20px;
+      text-align: center;
+      font-size: 14px;
+       font-weight: 400;
+       color: #808e94;
+  }
+   
+#author{
+    position: fixed;
+    top: 80px;
+    left: 310px;
+    width:130px;
+    height: 160px;
+    z-index: 999;
+    margin-left: 30%;
+    background-color: white;
+    border-radius: 10px;
+    display: none;
+}
+#author a{
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+#author a:hover{
+   background-color: #f9f9f9;
+}
+#cooperation{
+    position: fixed;
+    top: 80px;
+    left: 170px;
+    width:130px;
+    height: 160px;
+    z-index: 999;
+    margin-left: 30%;
+    background-color: white;
+    border-radius: 10px;
+    display: none;
+}
+#cooperation a{
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+#cooperation a:hover{
+   background-color: #f9f9f9;
+}
+#language{
+    position: fixed;
+    top: 80px;
+    left: 935px;
+    width:100px;
+    height: 80px;
+    z-index: 999;
+    margin-left: 30%;
+    background-color: white;
+    border-radius: 10px;
+    display: none;
+}
+#language a{
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+#language a:hover{
+   background-color: #f9f9f9;
+}

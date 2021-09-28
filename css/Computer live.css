@@ -1,0 +1,140 @@
+.page .toNav{
+    width: 100%;
+    height: 70px;
+}
+.toNav .logo{
+    width: 100px;
+    margin: 20px 70px;
+}
+.page .content{
+    height: 630px;
+    width: 100%;
+    background-color: #f5f8fa;
+}
+/*..........*/
+.content .bjtp{
+   position: absolute;
+   top: 100px;
+   left: 450px;
+}
+#vabvuaavav{
+    width: 440px;
+    height: 358px;
+    position: absolute;
+    top: 180px;
+    left: 510px;
+    display: block;
+}
+#denglu{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+    left: 70px;
+}
+
+#dianhua{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+    width: 200px;
+    height: 40px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    -o-box-pack: justify;
+    justify-content: space-between;
+    -o-box-align: center;
+    align-items: center;
+    padding-left: 15px;
+    background-color: #fff;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
+#jia86{
+    border: 1px solid #ddd;
+    font-size: 15px;
+    height: 42px;
+    width: 70px;
+    border-radius: 5px;
+    position: relative;
+    top: 64px;
+    left: 79px;
+    text-align: center;
+    line-height: 42px;
+    background-color: white;
+}
+#yanzhengma{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+    width: 250px;
+    height: 40px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    -o-box-pack: justify;
+    justify-content: space-between;
+    -o-box-align: center;
+    align-items: center;
+    padding-left: 15px;
+    background-color: #fff;
+    margin-top: 20px;
+    margin-left: 79px;
+    margin-bottom: 20px;
+}
+#vnaiv{
+    width: 300px;
+    color: white;
+    background-color: #ff2442;
+    height: 50px;
+    border-radius: 30px;
+    margin-left: 79px;
+    margin-top: 70px;
+    text-align: center;
+    line-height: 50px;
+}
+#vnaiv:active{
+    transform: scale(1.1,1.1);
+}
+#vavnaivnai{
+    position: absolute;
+    top: -65px;
+    right:-45px;
+}
+
+#vabbavbavb{
+    width: 315px;
+    height: 358px;
+    position: absolute;
+    top: 205px;
+    left: 570px;
+    display: none;
+}
+#vjbavba{
+    position: absolute;
+    top: -90px;
+    right:-110px;
+}
+ #vauabua{
+    background-color: white;
+    width: 240px;
+    float: left;
+    font-size: 15px;
+    height:250px;
+    overflow: auto;
+    position: absolute;
+    left: 30px;
+    top: 132px; 
+    display: none;
+}
+.page .content .viivi .dianhuahaomakaitou .shouwei{
+    height: 30px; 
+    line-height:30px ;   
+}
+.page .content   .viivi .dianhuahaomakaitou .shouwei .vwthi{
+    margin-left: 20px;
+}
+.page .content   .viivi .dianhuahaomakaitou .shouwei:hover{
+    background-color: #9ed5f8b9;
+    color: #3bb1fa;
+}

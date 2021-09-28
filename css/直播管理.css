@@ -1,0 +1,182 @@
+.page{
+    width: 100%;
+}
+.page .toNav{
+    width: 100%;
+}
+.toNav .logo{
+    width: 80px;
+    margin: 20px 20px;
+    float: left;
+}
+.toNav .zbgl{
+    width: 120px;
+    float: left;
+    margin: 5px  10px;
+}
+.zbgl .nr{
+  font-size: 20px;
+  color: rgb(45, 45, 45);
+}
+.main .zii{
+    width: 320px;
+    position: absolute;
+    color: white;
+    top: 200px;
+    left: 200px;
+}
+.zii .sd{
+    font-size: 40px;
+}
+.main .zii1{
+    width: 320px;
+    position: absolute;
+    color: white;
+    top: 320px;
+    left: 200px;
+}
+.zii1 .sd1{
+    font-size: 20px;
+    color: #fff;
+    opacity: .7;
+}
+.main .zii2{
+    width: 440px;
+    position: relative;
+    color: white;
+    top: 850px;
+    margin: 0 auto;
+}
+.zii2 .sd3{
+    font-size: 10px;
+    color: #fff;
+}
+.main .zii3{
+    position: absolute;
+    color: white;
+    left: 250px;
+    top: 200px;
+}
+.main .zii4{
+    position: absolute;
+    left: 1100px;
+    top: 300px;
+}
+
+
+#vabvuaavav{
+    width: 315px;
+    height: 358px;
+    position: absolute;
+    top: 205px;
+    right: 160px;
+    display: block;
+    background-color: white;
+    border-radius: 10px;
+}
+#dulu{
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    top: 30px;
+    left: 25px;
+}
+#dianhua{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+    width: 150px;
+    height: 40px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    -o-box-pack: justify;
+    justify-content: space-between;
+    -o-box-align: center;
+    align-items: center;
+    padding-left: 15px;
+    background-color: #fff;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+#jia86{
+    border: 1px solid #ddd;
+    font-size: 15px;
+    height: 42px;
+    width: 70px;
+    border-radius: 5px;
+    position: relative;
+    top: 64px;
+    left: 30px;
+    text-align: center;
+    line-height: 42px;
+    background-color: white;
+}
+#yanzhengma{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+    width: 220px;
+    height: 40px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    -o-box-pack: justify;
+    justify-content: space-between;
+    -o-box-align: center;
+    align-items: center;
+    padding-left: 15px;
+    background-color: #fff;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+#vnaiv{
+    width: 240px;
+    color: white;
+    background-color: blue;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 30px;
+    text-align: center;
+    line-height: 40px;
+}
+#vavnaivnai{
+    position: absolute;
+    right: 3px;
+    top: 1px;
+}
+#vabbavbavb{
+    width: 315px;
+    height: 358px;
+    position: absolute;
+    top: 205px;
+    right: 160px;
+    display: none;
+}
+#vjbavba{
+    position: absolute;
+    right: 5px;
+}
+ #vauabua{
+    background-color: white;
+    width: 240px;
+    float: left;
+    font-size: 15px;
+    height:250px;
+    overflow: auto;
+    position: absolute;
+    left: 30px;
+    top: 132px; 
+    display: none;
+}
+.page .viivi .dianhuahaomakaitou .shouwei{
+    height: 30px; 
+    line-height:30px ;   
+}
+.page  .viivi .dianhuahaomakaitou .shouwei .vwthi{
+    margin-left: 20px;
+}
+.page   .viivi .dianhuahaomakaitou .shouwei:hover{
+    background-color: #9ed5f8b9;
+    color: #3bb1fa;
+}

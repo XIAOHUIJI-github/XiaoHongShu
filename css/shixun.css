@@ -1,0 +1,352 @@
+/*社会责任*/
+.boby{
+    width: 100%;
+    background-color: #f8f8f8;
+    border: 2px solid red;
+}
+#datu{
+    margin-bottom: 120px;
+}
+#rongqi{
+    position: absolute;
+    top: 280px;
+    left: 45%;
+}
+#sheihuizeren{
+    font-size: 45px;
+    font-weight: bold;
+    color: white;
+}
+#wugexinwen{
+    background-color: white;
+    margin: 0 auto;
+    width: 940px;
+    height: 198px;
+    margin-top: 50px;
+}
+#wugexinwen2{
+    background-color: white;
+    margin: 0 auto;
+    width: 940px;
+    height: 198px;
+    margin-top: 50px;
+}
+#tupian1{
+    float: left;
+}
+#item{
+    width: 611px;
+    float: left;
+}
+#diyiju{
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: bold;
+    list-style: none;
+}
+#dierju{
+    height: 45px;
+    overflow: hidden;
+    margin-top: 25px;
+
+}
+#shijian{
+    list-style: none;
+    margin-top: 25px;
+}
+#diyiyexingwen{
+    width: 100%;
+    display: block;
+    margin-bottom: 30px;
+}
+#dieryexinwen{
+    width: 100%;
+    display: none;
+    margin-bottom: 30px;
+}
+#huanye{
+    background-color: #f8f8f8;
+    width: 940px;
+    height: 40px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+#anniu{
+    border: 1px solid white;
+    margin-left: 10px;
+    background-color: white;
+    float: right;
+    width: 76px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+#huan{
+    border: 1px solid white;
+    margin-left: 10px;
+    background-color: white;
+    float: right;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+#anniu:active{
+    background-color: red;
+    color: white;
+}
+#huan:active{
+    background-color: red;
+    color: white;
+}
+#anniu:hover{
+    border: 1px solid red;
+    color: red;
+}
+#huan:hover{
+    border: 1px solid red;
+    color: red;
+}
+#sange{
+    width: 980px;
+    height: 19px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+#sange1{
+    margin-left: 10px;
+}
+#sange2{
+margin-left: 395px;
+}
+#sange3{
+    float: right;
+    margin-right: 10px;
+}
+#sange1:hover{
+    color: red;
+}
+#sange2:hover{
+    color: red;
+}
+#sange3:hover{
+    color: red;
+}
+.boby .yejiao{
+    font-size: 5px;
+    color: black;
+    width: 100%;
+    height: 20px;
+    text-align: center;
+}
+/*加入我们*/
+.head-nav{
+    width: 100%;
+    margin: 0 auto;
+    height: 40px;
+    line-height: 50px;
+}
+#nav-logo{
+    margin-top: 10px;
+    margin-right: 140px;
+    margin-left: 140px;
+    float: left;
+
+}
+.head-nav .nav-click{
+    margin-left: 50px;
+    float: left;
+}
+.head-nav .nav-click1{
+    float: right;
+    margin-right: 140px;
+}
+#nav-dazi{
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    left: 330px;
+    top: 350px;
+}
+#sousuolan{
+    width: 640px;
+    height: 113px;
+    position: absolute;
+    left: 450px;
+    top: 540px;
+    background-color: rgba(7, 7, 7, 0.3);;
+}
+#shousuo{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+    width: 600px;
+    height: 36px;
+    border: 1px solid #ddd;
+    border-radius: 18px;
+    -o-box-pack: justify;
+    justify-content: space-between;
+    -o-box-align: center;
+    align-items: center;
+    padding-left: 15px;
+    background-color: #fff;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+#tubiao{
+    position: absolute;
+    right: 20px;
+    top: 28px;
+}
+#a1,#a2,#a3,#a4,#a5,#a6,#a7,#a8{
+    color: white;
+    margin-left: 20px;
+}
+#a2:hover{
+    color: red;
+}
+#a3:hover{
+    color: red;
+}
+#a4:hover{
+    color: red;
+}
+#a5:hover{
+    color: red;
+}
+#a6:hover{
+    color: red;
+}
+#a7:hover{
+    color: red;
+}
+#a8:hover{
+    color: red;
+}
+#lianggezhaopin{
+    width: 100%;
+    overflow: hidden;
+
+}
+#zhuobianfangkuai{
+    background-color: #f8f8f8;
+    margin-top: 50px;
+    margin-left: 250px;
+    width: 460px;
+    height: 300px;
+    float: left;
+}
+.liangezhaopin .zuobianfangkuai .fdaf{
+    margin-left: 30px;
+    width: 130px;
+    border-left: 3px solid red;
+    font-size: 25px;
+    margin-bottom: 30px;
+    text-align: center;
+    margin-top: 15px;
+}
+.liangezhaopin .zuobianfangkuai .wujuhua{
+    width: 100%;
+    height: 20px;
+    margin-bottom: 20px;
+}
+.liangezhaopin .zuobianfangkuai .wujuhua .youfu{
+    float: right;
+    margin-right: 30px;
+}
+.liangezhaopin .zuobianfangkuai .wujuhua .jbaf{
+    margin-left: 30px;
+}
+#youbiande{
+    background-color: #f8f8f8;
+    margin-top: 50px;
+    width: 460px;
+    height: 300px;
+    float: left;
+    margin-left: 80px;
+}
+.liangezhaopin .youbianfangkuai .afbdhf{
+    margin-left: 30px;
+    width: 130px;
+    border-left: 3px solid red;
+    font-size: 25px;
+    margin-bottom: 30px;
+    text-align: center;
+    margin-top: 15px;
+}
+.liangezhaopin .youbianfangkuai .wujuhua{
+    width: 100%;
+    height: 20px;
+    margin-bottom: 20px;
+}
+.liangezhaopin .youbianfangkuai .wujuhua .youfu{
+    float: right;
+    margin-right: 30px;
+}
+.liangezhaopin .youbianfangkuai .wujuhua .jbaf{
+    margin-left: 30px;
+}
+#bottmo-nav{
+    width: 100%;
+    border: 2px solid red;
+    background-color: black;
+    margin-top: 100px;
+}
+#last-nav{
+    width: 216px;
+    margin-left: 250px;
+    overflow: hidden;
+    margin-bottom: 120px;
+    margin-top: 30px;
+}
+#erweima{
+    display: none;
+    position:absolute;
+    left: 150px;
+    top: 1270px;
+}
+#iyhhh{
+    width: 100%;
+    margin-top: 15px;
+    float: left;
+}
+#weixin,#weibo,#ios,#anzuo{
+    color: white;
+    margin-right: 17px;
+    font-weight: bold;
+}
+.abdbuabv  .fabgavbab{
+    width: 400px;
+    position: absolute;
+    right: 250px;
+    top: 1230px;
+}
+.abdbuabv  .fabgavbab .tiaokuanxieye{
+    color: white;
+    float: left;
+    list-style: none;
+    margin-left: 10px;
+}
+.abdbuabv  .fabgavbab .tiaokuanxieye .abuvbuabva{
+    color: white;
+    float: left;
+    list-style: none;
+    font-size: 20px;
+    margin-left: -3px;
+    margin-bottom: 15px;
+}
+#yigengxian{
+    border-bottom: 0.5px solid white;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.abdbuabv .yejiao{
+    color: white;
+    font-size: 5px;
+    height: 20px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+}
